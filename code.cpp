@@ -1,4 +1,4 @@
-// Solution of 1012 - Area with Bonus in beecrowd
+// Solution of 1012 - Area in beecrowd
 #include <iostream>
 #include <iomanip>
 
